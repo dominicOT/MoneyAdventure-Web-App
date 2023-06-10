@@ -1,0 +1,92 @@
+const questions = [
+    {
+      question: "What is Nigeria's currency?",
+      options: [
+            "Naira",
+            "Leone",
+            "Dollar",
+            "Yen"
+        ],
+      correctAnswerIndex: 0
+    },
+    {
+      question: "What is the opposite of save?",
+      options: [
+            "buy",
+            "lend",
+            "spend",
+            "invest"
+        ],
+      correctAnswerIndex: 2
+    },
+    {
+      question: "What is Nigeria's currency?",
+      options: [
+            "Naira",
+            "Leone",
+            "Dollar",
+            "Yen"
+        ],
+      correctAnswerIndex: 0
+    },
+    {
+      question: "What is the opposite of save?",
+      options: [
+            "buy",
+            "lend",
+            "spend",
+            "invest"
+        ],
+      correctAnswerIndex: 2
+    },
+    {
+      question: "What is Nigeria's currency?",
+      options: [
+            "Naira",
+            "Leone",
+            "Dollar",
+            "Yen"
+        ],
+      correctAnswerIndex: 0
+    },
+    {
+      question: "What is the opposite of save?",
+      options: [
+            "buy",
+            "lend",
+            "spend",
+            "invest"
+        ],
+      correctAnswerIndex: 2
+    },
+    {
+      question: "What is Nigeria's currency?",
+      options: [
+            "Naira",
+            "Leone",
+            "Dollar",
+            "Yen"
+        ],
+      correctAnswerIndex: 0
+    },
+    {
+      question: "What is the opposite of save?",
+      options: [
+            "buy",
+            "lend",
+            "spend",
+            "invest"
+        ],
+      correctAnswerIndex: 2
+    },
+    {
+      question: "What is the opposite of save?",
+      options: [
+            "buy",
+            "lend",
+            "spend",
+            "invest"
+        ],
+      correctAnswerIndex: 2
+    },
+];
